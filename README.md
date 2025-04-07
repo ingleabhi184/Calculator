@@ -1,8 +1,10 @@
 📱 React Calculator 🧮
+
 A beautifully designed React-powered calculator, styled with Tailwind CSS. This simple yet powerful app allows you to perform basic arithmetic operations, all while having a sleek and responsive UI.
 
 🌟 Features
-Basic Arithmetic Operations ➕ ➖ ✖️ ➗
+Basic Arithmetic Operations 
+➕ ➖ ✖️ ➗
 
 Clear (C) Button to reset the current input.
 
